@@ -41,7 +41,8 @@ Expect content that follows this flow:
 | Topic             | Blog Link                                         |
 |-------------------|---------------------------------------------------|
 | ML Concepts Intro | [Yat S Yat: A Guide to Machine Learning](https://offline.bashnota.com/@yatsyat_ml/SA64kQNJMdN9syxnCGiqs)   |
-| Coming soon...    | Stay tuned 🛠️                                    |
+| Linear Regression | [Yat S Yat: Drawing The Line](https://offline.bashnota.com/@yatsyat_ml/avqfDAxPl2EfefXlNj0bE)   |
+
 
 ---
 
